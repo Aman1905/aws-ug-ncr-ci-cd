@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  margin: 2rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.category {
+  margin-bottom: 2rem;
+}
+
+.category h2 {
+  margin-top: 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
